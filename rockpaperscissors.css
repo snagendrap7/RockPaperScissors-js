@@ -1,0 +1,16 @@
+#container{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgreen;
+    width: 280px;
+    color: greenyellow;
+    padding: 5px;
+    border: 5px solid rgb(194, 112, 13);
+    border-radius: 20px;
+    text-align: center;
+}
+.buttons{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 0px 18px;
+}
